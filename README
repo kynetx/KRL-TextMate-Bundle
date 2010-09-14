@@ -1,0 +1,13 @@
+A simple TextMate bundle to help with KRL development
+
+!! Currently this bundle is my JavaScript bundle and will be moved to it's own KRL bundle but I will not be doing that until I get closer to finishing the syntax highlighting portion of the KRL bundle.
+
+Would love any contributions and feedback
+
+@MikeGrace
+http://michaelgrace.org
+http://www.facebook.com/mikegrace
+
+=== CHANGE LOG ===
+.01 few action snippets
+    keyboard shortcuts for committing and deploying code

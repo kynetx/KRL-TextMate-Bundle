@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>rule ${1:first_rule} is ${2:active} {
+	select when ${3:pageview} "${4:.*}"$5
+}</string>
+	<key>name</key>
+	<string>rule</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>rule</string>
+	<key>uuid</key>
+	<string>E3F24ACB-2469-438F-93E6-C44063965D4F</string>
+</dict>
+</plist>

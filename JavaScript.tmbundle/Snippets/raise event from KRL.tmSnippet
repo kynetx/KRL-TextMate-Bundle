@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>raise_event("${1:event_name}")${2:${3: with parameters = {"${4:key}":"${5:value}"\}}${6: ${7:and }app_id = "${8:appid}"}};</string>
+	<key>name</key>
+	<string>raise event from KRL</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>raise_event</string>
+	<key>uuid</key>
+	<string>01B1C437-7AEA-4470-9D77-5FD4A97D36F7</string>
+</dict>
+</plist>

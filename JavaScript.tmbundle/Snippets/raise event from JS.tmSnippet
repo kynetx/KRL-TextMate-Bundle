@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>app.raise_event("${1:event name}"${2:, {"${3:key}":${4:value}}});$5</string>
+	<key>name</key>
+	<string>raise event from JS</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>raise</string>
+	<key>uuid</key>
+	<string>CAE41434-46E9-43D6-B367-ADE8C04F4792</string>
+</dict>
+</plist>
